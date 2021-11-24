@@ -1,5 +1,9 @@
 ---
+<!--
 title: Examples
+-->
+事例
+
 description: Code examples for Mapbox GL JS.
 contentType: example
 layout: example
