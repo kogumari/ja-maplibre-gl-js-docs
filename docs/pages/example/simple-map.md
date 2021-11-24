@@ -1,6 +1,15 @@
 ---
+<!--
 title: Display a map
+-->
+title: マップを表示
+
+<!--
 description: Initialize a map in an HTML element with MapLibre GL JS.
+-->
+
+MapLibre GL JSを使ってHTML要素内のマップを初期化します。
+
 topics:
   - Getting started
   - Styles
