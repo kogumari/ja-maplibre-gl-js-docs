@@ -1,7 +1,14 @@
 ---
+<!--
 title: Add a 3D model
+-->
+3Dモデルを追加
+<!--
 description: Use a custom style layer with three.js to add a 3D model to the map.
+-->
+three.jsでカスタムスタイルレイヤーを使って、3Dモデルをマップに追加します。
 topics:
+
   - Layers
 thumbnail: add-3d-model
 contentType: example
